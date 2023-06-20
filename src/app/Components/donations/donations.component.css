@@ -1,0 +1,14 @@
+.example-form {
+  min-width: 150px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.list {
+  margin-top: 30px;
+}
